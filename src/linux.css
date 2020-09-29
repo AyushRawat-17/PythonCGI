@@ -1,0 +1,39 @@
+h1{
+    color: white;
+    margin: 20px -10px;
+    color: white;
+}
+
+.hat{
+    margin: 0px 45px;
+}
+
+.form-field{
+    background-color: white;
+    border-radius: 2px;
+    padding: 20px 100px 20px 20px;
+    display: block;
+}
+
+.main-content{
+    background-color: black;
+    height: 400px;
+    width: 600px;
+    margin: 100px auto;
+}
+
+.form-content{
+    position: relative;
+    top: 20px;
+    left: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.form-button{
+    display: block;
+    margin: 15px 65px;
+    padding: 15px 35px;
+    color: chocolate;
+}

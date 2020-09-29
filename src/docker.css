@@ -1,0 +1,25 @@
+.docker-content{
+    margin: 103px auto;
+    height: 400px;
+    width: 600px;
+    background-color: #38A2F1;
+    color: white;
+}
+
+.docker-form{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.select-style{
+    display: block;
+    padding: 10px 34px;
+    margin-bottom: 10px;
+
+}
+
+.submit-field{
+    background-color: #ffffff;
+}
